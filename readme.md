@@ -1,5 +1,17 @@
 # E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
+*COMPANY*: Codtech IT Solutions Private Limited
+
+*NAME*: SUJAL SHATRUGHANA LOHAKARE
+
+*INTERN ID*: CTIS1802
+
+*DOMAIN*: Frontend Web Development
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 ![E-Learning Website](preview.jpg)
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
